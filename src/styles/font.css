@@ -1,0 +1,8 @@
+
+ @font-face { font-style : normal; src: url("assets/fonts/PoppinsRegular.ttf"); font-family : "Poppins"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/PoppinsBold.ttf"); font-family : "Poppins"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/OxygenRegular.ttf"); font-family : "Oxygen"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/PlayfairDisplayBold.ttf"); font-family : "Playfair Display"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/RobotoRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/OxygenBold.ttf"); font-family : "Oxygen"; font-weight : 700;  }
